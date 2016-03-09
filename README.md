@@ -1,0 +1,1 @@
+https://dzone.com/articles/groovy-dsl-scratch-2-hours
